@@ -1,0 +1,6 @@
+Registro Nro,Tipo Hormiga,Ubicación,Sexo,Ingesta Nativa,GenoAlimento,Estado
+
+1,Zangano,Aleatoria,Asexual,Nectívoro,X,VIVA
+2,Larva,Aleatoria,Asexual,Carnívoro,X,MUERTA
+3,Larva,Aleatoria,Asexual,Omnívoro,XX,MUERTA
+4,Larva,Aleatoria,Asexual,Carnívoro,XX,MUERTA
