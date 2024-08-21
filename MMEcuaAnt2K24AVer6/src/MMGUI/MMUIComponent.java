@@ -24,6 +24,9 @@ public class MMUIComponent extends JFrame {
     private JButton eliminarButton;
     private JButton guardarButton;
     private int secuencial;
+    private String Nombre;
+    private String Cedula;
+
 
     // Colores Naturaleza
     public static final Color MMCOLOR_FOREST_GREEN = new Color(34, 139, 34); // Verde bosque

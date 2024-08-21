@@ -10,23 +10,23 @@
                 <mxCell id="8" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
                     <mxGeometry x="750" y="250" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="crear, alimenta, elimina y guarda hormigas larvas&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="9" value="crea larvas en el hormiguero virtual&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="420" y="120" width="140" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="alimentar hormigas con diferentes alimentos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="330" y="250" width="140" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="alimentar en base de&amp;nbsp;GenoAlimentos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="11" value="alimentar con GenoAlimentos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="510" y="190" width="140" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="alimentar en base de&amp;nbsp;ingesta nativ" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="12" value="alimentar con ingesta nativa" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="520" y="280" width="140" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="guardar datos del hormiguero virtual" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="425" y="360" width="140" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="eliminar hormigas del hormiguero virtual" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="420" y="440" width="140" height="70" as="geometry"/>
+                    <mxGeometry x="425" y="440" width="140" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3" target="9" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
@@ -82,8 +82,8 @@
                         <mxPoint x="480" y="265" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="27" value="MMEcuaAnt2K24A" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
-                    <mxGeometry x="310" y="70" width="400" height="490" as="geometry"/>
+                <mxCell id="27" value="MMEcuaAnt2K24A" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="55" width="400" height="520" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
